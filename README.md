@@ -9,11 +9,12 @@
     <li>Vanilla JS</li>
   </ul>
     
-    Goals with this project
-     
+    <h2>Goals with this project</h2>
+     <ul>
     <li>Develop an modern interactive website</li>
     <li>Continue to develop UI development skills with JS</li>
-    <li>Continuing to practice DOM manipulation</li>
-    <li>Honeing vanilla JS<
+    <li>Continuing to practicze DOM manipulation</li>
+    <li>Honeing vanilla JS</li>
+    </ul>
    
     

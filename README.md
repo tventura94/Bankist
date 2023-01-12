@@ -3,6 +3,7 @@
   
   <a href='https://tventura94.github.io/Bankist/'>GitHub Site</a>
   <ul>
+    <h2>Tech utilized:</h2>
     <li>HTML</li>
     <li>CSS</li>
     <li>Vanilla JS</li>

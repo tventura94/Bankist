@@ -1,5 +1,5 @@
 #   <h1>Bankist</h1>
-    <p>An appealing banking page that utilizes vanilla JS to create an interactive user experience</p>
+    An appealing banking page that utilizes vanilla JS to create an interactive user experience
   
   <a href='https://tventura94.github.io/Bankist/'>GitHub Site</a>
   <h2>Tech utilized:</h2>
@@ -9,11 +9,11 @@
     <li>Vanilla JS</li>
   </ul>
     
-    <h3>Goals with this project</h3>
-     <ul>
+    Goals with this project
+     
     <li>Develop an modern interactive website</li>
     <li>Continue to develop UI development skills with JS</li>
     <li>Continuing to practice DOM manipulation</li>
-    <li>Honeing vanilla JS</li>
-    </ul>
+    <li>Honeing vanilla JS<
+   
     

@@ -1,10 +1,19 @@
-# <h1>Bankist</h1>
-<p>An appealing banking page that utilizes vanilla JS to create an interactive user experience<p>
+#   <h1>Bankist</h1>
+    <p>An appealing banking page that utilizes vanilla JS to create an interactive user experience<p>
   
   <a href='https://tventura94.github.io/Bankist/'>GitHub Site</a>
+  <h2>Tech utilized:</h2>
   <ul>
-    <h2>Tech utilized:</h2>
     <li>HTML</li>
     <li>CSS</li>
     <li>Vanilla JS</li>
+  </ul>
+    
+    <h2>Goals with this project</h2>
+      <ul>
+    <h2>Develop an modern interactive website</h2>
+    <li>Continue to develop UI development skills with JS</li>
+    <li>Continuing to practice DOM manipulation</li>
+    <li>Honeing vanilla JS</li>
     </ul>
+    

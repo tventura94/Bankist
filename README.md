@@ -9,7 +9,7 @@
     <li>Vanilla JS</li>
   </ul>
     
-    <h2>Goals with this project</h2>
+    <h3>Goals with this project</h3>
       <ul>
     <h2>Develop an modern interactive website</h2>
     <li>Continue to develop UI development skills with JS</li>
